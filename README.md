@@ -26,3 +26,15 @@ Langages de programmation C++ et C##
 Travail avec les API des réseaux sociaux
 Proxy et anonymat des requêtes réseau
 Scraping web et automatisation du navigateur
+
+$$\       $$$$$$$\  $$\   $$\ 
+$$ |      $$  __$$\ $$ |  $$ |
+$$ |      $$ |  $$ |$$ |  $$ |
+$$ |      $$ |  $$ |$$$$$$$$ |
+$$ |      $$ |  $$ |$$  __$$ |
+$$ |      $$ |  $$ |$$ |  $$ |
+$$$$$$$$\ $$$$$$$  |$$ |  $$ |
+\________|\_______/ \__|  \__|
+                              
+                              
+                              
